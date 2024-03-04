@@ -20,7 +20,9 @@ You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 Education
 ======
 Ph.D. Biostatistics, China Pharmaceutical University, 2023 - Present
+
 Master, School of Science, China Pharmaceutical University, 2020 - 2023
+
 Bachelor, School of Mathematics (Zhuhai), Sun Yat-sen University, 2016 - 2020
 
 
