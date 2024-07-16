@@ -2,7 +2,7 @@
 title: "Local continual reassessment methods for dose finding and optimization in drug-combination trials"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: ' Building upon the framework of the partial ordering continual reassessment method, we develop local data-based continual reassessment method designs for identifying the maximum tolerated dose combination, using toxicity only, and the optimal biological dose combination, using both toxicity and efficacy, respectively.'
+excerpt: 'We propose to employ local, underparameterized models for dose exploration to reduce the hurdle of model calibration and enhance the design robustness. Building upon the framework of the partial ordering continual reassessment method, we develop local data-based continual reassessment method designs for identifying the maximum tolerated dose combination, using toxicity only, and the optimal biological dose combination, using both toxicity and efficacy, respectively.'
 date: 2023-08-18
 venue: 'Statistical Methods in Medical Research'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
