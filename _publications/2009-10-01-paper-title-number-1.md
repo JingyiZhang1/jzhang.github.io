@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Recently, the US Food and Drug Administration Oncology Center of Excellence initiated Project Optimus to reform the dose optimization and dose selection paradigm in oncology drug development.'
 date: 2023-05-08
 venue: 'Pharmaceutical Statistics'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.2306'
 citation: 'Zhang, J., Chen, X., Li, B., & Yan, F. (2023). A comparative study of adaptive trial designs for dose optimization. Pharmaceutical Statistics, 22(5), 797-814.'
 ---
 
