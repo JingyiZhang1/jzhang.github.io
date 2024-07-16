@@ -2,7 +2,7 @@
 title: "A comparative study of adaptive trial designs for dose optimization"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Recently, the US Food and Drug Administration Oncology Center of Excellence initiated Project Optimus to reform the dose optimization and dose selection paradigm in oncology drug development.'
+excerpt: 'Recently, the US Food and Drug Administration Oncology Center of Excellence initiated Project Optimus to reform the dose optimization and dose selection paradigm in oncology drug development.'
 date: 2023-05-08
 venue: 'Pharmaceutical Statistics'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.2306'
