@@ -3,7 +3,7 @@ title: "Local continual reassessment methods for dose finding and optimization i
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Due to the limited sample size and large dose exploration space, obtaining a desirable dose combination is a challenging task in the early development of combination treatments for cancer patients.'
-date: 2010-10-01
+date: 2023-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
