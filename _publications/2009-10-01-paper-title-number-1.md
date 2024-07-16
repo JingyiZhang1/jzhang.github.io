@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Local continual reassessment methods for dose finding and optimization in drug-combination trials"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Due to the limited sample size and large dose exploration space, obtaining a desirable dose combination is a challenging task in the early development of combination treatments for cancer patients. Most existing designs for optimizing the dose combination are model-based, requiring significant efforts to elicit parameters or prior distributions. Model-based designs also rely on intensive model calibration and may yield unstable performance in the case of model misspecification or sparse data. We propose to employ local, underparameterized models for dose exploration to reduce the hurdle of model calibration and enhance the design robustness. Building upon the framework of the partial ordering continual reassessment method, we develop local data-based continual reassessment method designs for identifying the maximum tolerated dose combination, using toxicity only, and the optimal biological dose combination, using both toxicity and efficacy, respectively. The local data-based continual reassessment method designs only model the local data from neighboring dose combinations. Therefore, they are flexible in estimating the local space and circumventing unstable characterization of the entire dose-exploration surface. Our simulation studies show that our approach has competitive performance compared to widely used methods for finding maximum tolerated dose combination, and it has advantages over existing model-based methods for optimizing optimal biological dose combination.'
+date: 2023
+venue: 'Statistical Methods in Medical Research'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://journals.sagepub.com/doi/abs/10.1177/09622802231192955)'
+citation: 'Zhang, J., Yan, F., Wages, N. A., & Lin, R. (2023). Local continual reassessment methods for dose finding and optimization in drug-combination trials. Statistical Methods in Medical Research, 32(10), 2049-2063.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
