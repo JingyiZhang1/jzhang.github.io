@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Personal Information
+======
+Name: Jingyi Zhang
+Gender: Female
+Date of Birth: Oct 9, 1997
+Email: zhangjingyi6279@126.com
+
+
+
 Education
 ======
 * Ph.D. Biostatistics, China Pharmaceutical University, 2023 - Present
