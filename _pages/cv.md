@@ -11,10 +11,10 @@ redirect_from:
 
 Personal Information
 ======
-Name: Jingyi Zhang
-Gender: Female
-Date of Birth: Oct 9, 1997
-Email: zhangjingyi6279@126.com
+* Name: Jingyi Zhang
+* Gender: Female
+* Date of Birth: Oct 9, 1997
+* Email: zhangjingyi6279@126.com
 
 
 
