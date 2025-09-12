@@ -14,7 +14,7 @@ I am advised by [Prof. Fangrong Yan](https://orcid.org/0000-0003-3347-5021) from
 
 You can find my CV here: [JingyiZhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email：zhangjingyi6279@126.com] / [Github](https://github.com/JingyiZhang1)
+Email：zhangjingyi6279@126.com
 
 
 Education
