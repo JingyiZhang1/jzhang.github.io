@@ -1,7 +1,7 @@
 ---
 title: "SFU: Surface‑Free Utility‑Based Design for Dose Optimization in Cancer Drug Combination Trials"
 collection: publications
-permalink: /publication/02-2024-sfu
+permalink: /publication/03-2024-sfu
 excerpt: 'Precision oncology has demonstrated the potential of drug combinations in efectively enhancing anti-tumor efciency and controlling disease progression. Nonetheless, dose optimization in early-phase drug combination trials presents various challenges and is considerably more complex than single-agent dose optimization. To address this, we propose a surface-free design for exploring the optimal doses of combination therapy within the phase I–II framework. Rather than relying on parametric models to defne the shape of toxicity and efcacy surfaces, our approach centers on characterizing dose-toxicity and dose-efcacy relationships between adjacent dose combinations using surface-free models. The proposed design encompasses a run-in phase, facilitating a swift exploration of the dose space, followed by a main phase where the dose-fnding rule relies on the proposed surface-free model.'
 date: 2024-04-07
 venue: 'Statistics in Biosciences'
