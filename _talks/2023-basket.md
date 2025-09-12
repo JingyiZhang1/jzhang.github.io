@@ -1,5 +1,5 @@
 ---
-title: "IDEO: Bayesian Indication-Specific Dose Evaluation and Optimization Design for   Randomized Multi-Dose Basket Trials"
+title: "IDEO: Bayesian Indication-Specific Dose Evaluation and Optimization Design for Randomized Multi-Dose Basket Trials"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-12-talk-1
