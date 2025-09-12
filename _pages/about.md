@@ -12,7 +12,7 @@ I'm a thrid-year PhD student from [School of Science](https://lxy.cpu.edu.cn/), 
 I am advised by [Prof. Fangrong Yan](https://orcid.org/0000-0003-3347-5021) from China Pharmaceutical University, and [Dr. Ruitao Lin
 ](https://scholar.google.com/citations?user=sUYFsIUAAAAJ&hl=zh-CN&oi=ao) from the University of Texas [MD Anderson Cancer Center](https://www.mdanderson.org/).
 
-You can find my CV here: [JingyiZhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [JingyiZhang's Curriculum Vitae](../assets/CV-en.pdf).
 
 Email：zhangjingyi6279@126.com
 
