@@ -1,0 +1,13 @@
+---
+title: "TODO: A Triple-Outcome Double-Criterion Optimal Design for Dose Monitoring-and-Optimization in Multi-Dose Randomized Trials"
+collection: publications
+permalink: /publication/2025-sim
+excerpt: 'Detecting the efficacy signal and determining the optimal dose are critical steps to increase the probability of success and expedite the drug development in cancer treatment. After identifying a safe dose range through phase I studies, conducting a multidose randomized trial becomes an effective approach to achieve this objective. However, there have been limited formal statistical designs for such multidose trials, and dose selection in practice is often ad hoc, relying on descriptive statistics. We propose a Bayesian optimal two-stage design to facilitate rigorous dose monitoring and optimization. Utilizing a flexible Bayesian dynamic linear model for the dose-response relationship, we employ dual criteria to assess dose admissibility and desirability. Additionally, we introduce a triple-outcome trial decision procedure to consider dose selection beyond clinical factors. Under the proposed model and decision rules, we develop a systematic calibration algorithm to determine the sample size and Bayesian posterior probability cutoffs to optimize specific design operating characteristics. Furthermore, we demonstrate how to concurrently assess toxicity and efficacy within the proposed framework using a utility-based risk-benefit trade-off. To validate the effectiveness of our design, we conduct extensive simulation studies across a variety of scenarios, demonstrating its robust operating characteristics.'
+date: 2025-05-19
+venue: 'Statistics in Medicine'
+paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/sim.70090'
+citation: 'Zhang, J., Zhou, H., Wages, N.A., Guo, Z., Liu, F., Jemielita, T., Yan, F. and Lin, R. (2025), TODO: A Triple-Outcome Double-Criterion Optimal Design for Dose Monitoring-and-Optimization in Multi-Dose Randomized Trials. Statistics in Medicine, 44: e70090.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
