@@ -21,11 +21,11 @@ repository               : "jingyizhang1/jzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image1.png"
   name             : "Jingyi Zhang"
   pronouns         : # example: "she/her"  
   bio              : " "
-  location         : "Earth"
+  location         : "Nanjing"
   employer         : "China Pharmaceutical University"
   uri              : # URL
   email            : "zhangjingyi6279@126.com" 
