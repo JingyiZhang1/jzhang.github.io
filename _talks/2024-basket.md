@@ -7,5 +7,5 @@ venue: "2024 China Biostatistics Annual Conference"
 date: 2024-07-01
 location: "Guangzhou, China"
 ---
-![Conference proceedings talk](/assets/talk.jpg)
+![Conference proceedings talk](/images/talk.jpg)
 
