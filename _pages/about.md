@@ -26,3 +26,18 @@ Master, School of Science, China Pharmaceutical University, 2020 - 2023
 Bachelor, School of Mathematics (Zhuhai), Sun Yat-sen University, 2016 - 2020
 
 
+Academic honors
+======
+The 2nd Su Binghua Biostatistics Scholarship (2025)
+
+Outstanding Paper Award of the Chinese Biostatistics Conference (2024)
+
+PhD Academic Scholarship and Excellence Award, China Pharmaceutical University (2023, 2024)
+
+
+Computer skills and personality
+======
+Software Proficiency: Expertise in R for clinical trial simulation and data visualization; proficient in SAS for statistical analysis.
+
+Cheerful, friendly, team-spirited, high sense of responsibility, and motivated.
+
