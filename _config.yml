@@ -21,7 +21,7 @@ repository               : "jingyizhang1/jzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image1.png"
+  avatar           : "image1.jpg"
   name             : "Jingyi Zhang"
   pronouns         : # example: "she/her"  
   bio              : " "
