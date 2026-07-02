@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV as PDF](/files/Jingyi_Zhang_cv_20260627.pdf)
+[Download my CV as PDF](/jzhang.github.io/files/Jingyi_Zhang_cv_20260627.pdf)
 
 Personal Information
 ======
