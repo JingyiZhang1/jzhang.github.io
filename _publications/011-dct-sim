@@ -1,0 +1,13 @@
+---
+title: "Bayesian Integrated Learning of Longitudinal Dose-Response Relationships via Decentralized Clinical Trials"
+collection: publications
+permalink: /publication/01-2025-dct-sim
+excerpt: 'Decentralized clinical trials (DCTs) extend trial activities beyond traditional sites, enhancing access, convenience, efficiency, and result generalizability. They are particularly promising for chronic conditions like diabetes and obesity, which require longer study durations to evaluate drug effects. However, decentralized data collection raises concerns about increased variability and potential biases. This paper presents a novel Bayesian integrated learning procedure to analyze dose-response relationships using longitudinal data from a phase II DCT that combines centralized and decentralized data collection. We generalize a parametric exponential decay model to handle mixed data sources and apply Bayesian spike-and-slab priors to address biases and uncertainties from decentralized measurements. Our model enables data-adaptive integration of information from both centralized and decentralized sources. Through simulations and sensitivity analyses, we show that the proposed approach achieves favorable performance across various scenarios. Notably, the method matches the efficiency of traditional trials when decentralized data collection introduces no additional variability or error. Even when such issues arise, it remains less biased and more efficient than naïve methods that rely solely on centralized data or simply pool data from both sources.'
+date: 2025-11-20
+venue: 'Statistics in Medicine'
+paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/sim.70338'
+citation: 'Zhang, J., Wang, T., Qu, Y., Yan, F., Liu, S., and Lin, R. (2025), Bayesian Integrated Learning of Longitudinal Dose-Response Relationships via Decentralized Clinical Trials'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
