@@ -35,8 +35,8 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.publications %}
+    {% for post in sorted_publications %}
   {% endfor %}</ul>
   
 Talks
